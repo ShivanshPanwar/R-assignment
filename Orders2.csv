@@ -1,0 +1,21 @@
+OrderID,CustomerID,OrderDate,Product,Category,Quantity,UnitPrice,Discount,OrderStatus,PaymentMethod
+O1001,C001,2024-09-01,Laptop,Electronics,1,65000,5000,Delivered,Credit Card
+O1002,C002,2024-09-02,Headphones,Electronics,2,2500,200,Delivered,UPI
+O1003,C003,2024-09-02,Office Chair,Furniture,1,7000,500,Shipped,Debit Card
+O1004,C001,2024-09-03,Keyboard,Electronics,1,1200,100,Delivered,UPI
+O1005,C004,2024-09-04,Dining Table,Furniture,1,18000,1500,Cancelled,Credit Card
+O1006,C005,2024-09-05,Monitor,Electronics,2,15000,1000,Delivered,Net Banking
+O1007,C006,2024-09-05,Mouse,Electronics,3,700,50,Delivered,UPI
+O1008,C007,2024-09-06,Sofa,Furniture,1,35000,3000,Shipped,Credit Card
+O1009,C008,2024-09-07,Smartphone,Electronics,1,40000,2000,Delivered,Debit Card
+O1010,C009,2024-09-08,Bookshelf,Furniture,1,9500,500,Processing,UPI
+O1011,C010,2024-09-09,Tablet,Electronics,1,28000,1500,Delivered,Credit Card
+O1012,C011,2024-09-10,Printer,Electronics,1,12000,700,Delivered,Net Banking
+O1013,C012,2024-09-11,Coffee Table,Furniture,1,6000,300,Cancelled,UPI
+O1014,C013,2024-09-12,Air Conditioner,Electronics,1,45000,2500,Delivered,Credit Card
+O1015,C014,2024-09-13,Wardrobe,Furniture,1,25000,1800,Shipped,Debit Card
+O1016,C015,2024-09-14,Laptop,Electronics,1,72000,6000,Delivered,Credit Card
+O1017,C002,2024-09-15,Smart Watch,Electronics,2,8000,500,Delivered,UPI
+O1018,C005,2024-09-16,Study Table,Furniture,1,11000,700,Delivered,Net Banking
+O1019,C009,2024-09-17,Microwave,Home Appliance,1,15000,1000,Processing,Credit Card
+O1020,C004,2024-09-18,Refrigerator,Home Appliance,1,38000,2500,Delivered,Debit Card
